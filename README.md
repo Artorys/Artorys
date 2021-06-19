@@ -13,9 +13,33 @@
                 Sou um iniciante na área da programação<br>Aprendi um pouco de lógica com o python🐍,<hr>
             </h2>
             <h2>
+            <span>
                 Fui para o C# com programação de jogos. <mark id = "mark1">C#</mark> <br>
                 mas nao me vi como um desenvolvedor de jogos &
+            </span>
+            <p>
                 <hr id = "hr">
-                <br>Migrei para a programação web ,<mark id ="javascript" >JavaScript</mark>,<mark id = "html">HTML5</mark>&<mark id = "css">CSS3</mark>
+                <br>Migrei para a programação web <p style ="background-color: rgb(247, 223, 30); width: 300px;position:relative;left:500px">JavaScript</p><p style ="background-color: rgb(221, 75, 37); width: 300px;position:relative;left:500px">HTML5</p>&<p style= "background-color: rgb(0, 161, 223); width: 300px;position:relative;left:500px">CSS3</p>
             </h2>
         </div>
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </body>
+</html>
