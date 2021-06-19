@@ -1,5 +1,6 @@
 <html>
     <head>
+        <meta charset="UTF-8">
         <link rel="stylesheet" href="style.css">
     </head>
         <div>
@@ -22,24 +23,5 @@
                 <br>Migrei para a programação web <p style ="background-color: rgb(247, 223, 30); width: 300px;position:relative;left:500px">JavaScript</p><p style ="background-color: rgb(221, 75, 37); width: 300px;position:relative;left:500px">HTML5</p>&<p style= "background-color: rgb(0, 161, 223); width: 300px;position:relative;left:500px">CSS3</p>
             </h2>
         </div>
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     </body>
 </html>
