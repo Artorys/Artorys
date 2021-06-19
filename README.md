@@ -2,7 +2,6 @@
     <head>
         <link rel="stylesheet" href="style.css">
     </head>
-    <body>
         <div>
             <h1 id = "box-h1">
                 Salve Rapeize 🇧🇷
@@ -20,5 +19,3 @@
                 <br>Migrei para a programação web ,<mark id ="javascript" >JavaScript</mark>,<mark id = "html">HTML5</mark>&<mark id = "css">CSS3</mark>
             </h2>
         </div>
-    </body>
-</html>
