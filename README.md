@@ -7,7 +7,7 @@
 
   <div align = "center" style ="border-radius">
   <kbd width ="100%" height = "50%">
-    <img style ="border-radius : 20px" width = "100%" height = "200px" src ="https://c.tenor.com/G9wtd4WhwXIAAAAC/lain-computer.gif">
+    <img style ="border-radius : 20px" width = "100%" height = "300px" src ="https://c.tenor.com/G9wtd4WhwXIAAAAC/lain-computer.gif">
   </kbd>
   </div>
 
