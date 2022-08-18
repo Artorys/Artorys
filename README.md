@@ -4,7 +4,7 @@
   
   ### Bem vindo ao meu perfil GitHub 👋
 
-  <div style = "width : auto;display : flex;flex-flow : column wrap;align-items : center;justify-content : center;gap : 0.5rem;">
+  <div style = "width : auto;display : flex;flex-flow : column wrap;align-items : center;justify-content : center;gap : 0.5rem;" align = "center">
     <a style = "width : auto;display : flex;flex-flow : column wrap;align-items : center;justify-content : center;gap : 0.5rem;"  target = "_blank" href = "https://kenzie.com.br/">
   
   ### Aluno da <strong>Kenzie Academy Brasil </strong>
