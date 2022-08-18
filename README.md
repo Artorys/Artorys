@@ -6,7 +6,7 @@
   ## Bem vindo ao meu perfil GitHub 👋
 
   <div align = "center" style ="border-radius">
-    <img style ="border-radius : 20px" width = "50%" src ="https://myswordisunbelievablydull.files.wordpress.com/2011/07/coalgirls_serial_experiments_lain_03_1008x720_blu-ray_flac_92704257-mkv_snapshot_19-41_2011-07-19_19-10-52.jpg">
+    <img style ="border-radius : 20px" width = "50%" height = "300px" src ="https://c.tenor.com/G9wtd4WhwXIAAAAC/lain-computer.gif">
   </div>
 
   <div style = "width : auto;display : flex;flex-flow : column wrap;align-items : center;justify-content : center;gap : 0.5rem;">
