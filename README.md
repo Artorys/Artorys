@@ -1,14 +1,18 @@
 <div style = "width : 100%;display : flex;flex-flow : column;align-items : center;gap : 2rem;margin-bottom : 1rem" align = "center">
   
-  ### Olá, me chamo <strong>Guilherme Teles</strong>
+  # Olá, me chamo <strong>Guilherme Teles</strong>
   
-  ### Bem vindo ao meu perfil GitHub 👋
+  
+  ## Bem vindo ao meu perfil GitHub 👋
+
+  <div align = "center" style ="border-radius">
+    <img style ="border-radius : 20px" width = "50%" src ="https://myswordisunbelievablydull.files.wordpress.com/2011/07/coalgirls_serial_experiments_lain_03_1008x720_blu-ray_flac_92704257-mkv_snapshot_19-41_2011-07-19_19-10-52.jpg">
+  </div>
 
   <div style = "width : auto;display : flex;flex-flow : column wrap;align-items : center;justify-content : center;gap : 0.5rem;">
     <a style = "width : auto;display : flex;flex-flow : column wrap;align-items : center;justify-content : center;gap : 0.5rem;"  target = "_blank" href = "https://kenzie.com.br/">
-  
-  ### Aluno da <strong>Kenzie Academy Brasil </strong>
-  <img width = "40" height = "40" src = "https://assets.codepen.io/4703127/internal/avatars/users/default.png?fit=crop&format=auto&height=512&version=1593096653&width=512">
+      <p>Aluno da <strong>Kenzie Academy Brasil </strong></p>
+      <img width = "40" height = "40" src = "https://assets.codepen.io/4703127/internal/avatars/users/default.png?fit=crop&format=auto&height=512&version=1593096653&width=512">
     </a>
 
   </div>
