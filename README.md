@@ -1,4 +1,5 @@
-### Olá pessoal 👋
+## Olá, me chamo Guilherme ! 
+### Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando em ...
 - 🌱 Atualmente estou aprendendo ...
