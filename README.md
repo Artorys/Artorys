@@ -1,4 +1,4 @@
-<div style = "width : 100%;display : flex;flex-flow : column;align-items : center;gap : 2rem;margin-bottom : 1rem">
+<div style = "width : 100%;display : flex;flex-flow : column;align-items : center;gap : 2rem;margin-bottom : 1rem" align = "center">
   
   ### Olá, me chamo <strong>Guilherme Teles</strong>
   
