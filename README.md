@@ -6,7 +6,9 @@
   ## Bem vindo ao meu perfil GitHub 👋
 
   <div align = "center" style ="border-radius">
-    <img style ="border-radius : 20px" width = "50%" height = "300px" src ="https://c.tenor.com/G9wtd4WhwXIAAAAC/lain-computer.gif">
+  <kbd width ="50%" height = "50%">
+    <img style ="border-radius : 20px" width = "100%" height = "100%" src ="https://c.tenor.com/G9wtd4WhwXIAAAAC/lain-computer.gif">
+  </kbd>
   </div>
 
   <div style = "width : auto;display : flex;flex-flow : column wrap;align-items : center;justify-content : center;gap : 0.5rem;">
@@ -19,7 +21,7 @@
 
 </div>
 
-<div style = "width : 100%;display : flex;flex-flow : row wrap;align-items : center;gap : 2rem;justify-content : center" align = "center">
+<div style = "width : 100%" align = "center">
 
   
   <div style = "width : auto;display : flex;flex-flow : column wrap;align-items : center;justify-content : center;gap : 0.5rem;"> 
