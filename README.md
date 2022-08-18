@@ -1,10 +1,10 @@
-<div style = "width : 100%;display : flex;flex-flow : column;align-items : center;gap : 2rem;margin-bottom : 1rem">
+<div style = "width : 100%;margin : auto auto;display : flex;flex-flow : column;align-items : center;gap : 2rem;margin-bottom : 1rem">
   
   ### Olá, me chamo <strong>Guilherme Teles</strong>
   
   ### Bem vindo ao meu perfil GitHub 👋
 
-  <div style = "width : auto;display : flex;flex-flow : column wrap;align-items : center;justify-content : center;gap : 0.5rem;">
+  <div style = "width : auto;display : flex;margin : auto auto;flex-flow : column wrap;align-items : center;justify-content : center;gap : 0.5rem;">
     <a style = "width : auto;display : flex;flex-flow : column wrap;align-items : center;justify-content : center;gap : 0.5rem;"  target = "_blank" href = "https://kenzie.com.br/">
   
   ### Aluno da <strong>Kenzie Academy Brasil </strong>
@@ -15,7 +15,7 @@
 
 </div>
 
-<div style = "width : 100%;display : flex;flex-flow : row wrap;align-items : center;gap : 2rem;justify-content : center" >
+<div style = "width : 100%;margin : auto auto;display : flex;flex-flow : row wrap;align-items : center;gap : 2rem;justify-content : center" >
 
   
   <div style = "width : auto;display : flex;flex-flow : column wrap;align-items : center;justify-content : center;gap : 0.5rem;"> 
