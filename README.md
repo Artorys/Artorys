@@ -5,12 +5,6 @@
   
   ## Bem vindo ao meu perfil GitHub 👋
 
-  <div align = "center" style ="border-radius">
-  <kbd width ="100%" height = "50%">
-    <img style ="border-radius : 20px" width = "100%" height = "300px" src ="https://c.tenor.com/G9wtd4WhwXIAAAAC/lain-computer.gif">
-  </kbd>
-  </div>
-
   <div style = "width : auto;display : flex;flex-flow : column wrap;align-items : center;justify-content : center;gap : 0.5rem;">
     <a style = "width : auto;display : flex;flex-flow : column wrap;align-items : center;justify-content : center;gap : 0.5rem;"  target = "_blank" href = "https://kenzie.com.br/">
       <p>Aluno da <strong>Kenzie Academy Brasil </strong></p>
