@@ -4,6 +4,8 @@
   
   
   ## Bem vindo ao meu perfil GitHub 👋
+  <br>
+    Estudo programação web para ajudar a resolver problemas reais,pois o visual é simples e objetivo,trazendo mais conforto e acessibilidade nas interações,com foco em responsividade das aplicações desenvolvidas.Atualmente especializando em desenvolvimento web full-stack,mas com forte noções de desenvolvimento web front-end.
 
   <div style = "width : auto;display : flex;flex-flow : column wrap;align-items : center;justify-content : center;gap : 0.5rem;">
     <a style = "width : auto;display : flex;flex-flow : column wrap;align-items : center;justify-content : center;gap : 0.5rem;"  target = "_blank" href = "https://kenzie.com.br/">
@@ -69,7 +71,6 @@
       <a href="https://www.linkedin.com/in/guilherme-teles-103853235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
     <br>
-  Estudo programação web para ajudar a resolver problemas reais,pois o visual é simples e objetivo,trazendo mais conforto e acessibilidade nas interações,com foco em responsividade das aplicações desenvolvidas.Atualmente especializando em desenvolvimento web full-stack,mas com forte noções de desenvolvimento web front-end.
 
 mais tecnologias que possuo conhecimento:
 
