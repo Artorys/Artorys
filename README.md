@@ -81,7 +81,6 @@ JavaScript (ES6) | HTML | CSS | Git | Scrum | Github | React | Hooks | Redux | M
 
   <div style = "width : 100%;display : flex;flex-flow : row wrap;align-items : center;justify-content : center;gap : 0.5rem;">
   <img width = "100%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artorys&layout=compact&langs_count=7&theme=dracula"/>
-  <img width = "100%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Artorys&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
   
   </div>
       
