@@ -71,7 +71,7 @@
     <br>
   Estudo programação web para ajudar a resolver problemas reais,pois o visual é simples e objetivo,trazendo mais conforto e acessibilidade nas interações,com foco em responsividade das aplicações desenvolvidas.Atualmente especializando em desenvolvimento web full-stack,mas com forte noções de desenvolvimento web front-end.
 
-Todas as tecnologias que possuo conhecimento:
+mais tecnologias que possuo conhecimento:
 
 JavaScript (ES6) | HTML | CSS | Git | Scrum | Github | React | Hooks | Redux | MUI | ContextAPI | styled-components | Emotion | express | axios | yup | framer-motion | toastfy | react-router-dom | Swiper | PostgreSQL | Typescript | react-hook-form
   <br>
