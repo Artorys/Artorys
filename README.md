@@ -11,9 +11,6 @@ Pricipais tecnologias que possuo conhecimento:
 
 JavaScript (ES6) | HTML | CSS | Git | Scrum | Github | React | Hooks | Redux | MUI | ContextAPI | styled-components | Emotion | express | axios | yup | framer-motion | toastfy | react-router-dom | Swiper | PostgreSQL | Typescript | react-hook-form
 
-Informações de contato:
-Email: guilhermetelesdev@gmail.com,
-
   <div style = "width : auto;display : flex;flex-flow : column wrap;align-items : center;justify-content : center;gap : 0.5rem;">
     <a style = "width : auto;display : flex;flex-flow : column wrap;align-items : center;justify-content : center;gap : 0.5rem;"  target = "_blank" href = "https://kenzie.com.br/">
       <p>Aluno da <strong>Kenzie Academy Brasil </strong></p>
@@ -74,7 +71,7 @@ Email: guilhermetelesdev@gmail.com,
   </div>
   <div style = "width : auto;display : flex;flex-flow : row wrap;align-items : center;justify-content : center; gap : 1rem">
       <a href="https://www.twitch.tv/mitomortais" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-      <a href = "mailto:guidarksouls123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href = "mailto:guilhermetelesdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/guilherme-teles-103853235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
 
