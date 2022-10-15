@@ -7,7 +7,7 @@
   <br>
     Estudo programação web para ajudar a resolver problemas reais,pois o visual é simples e objetivo,trazendo mais conforto e acessibilidade nas interações,com foco em responsividade das aplicações desenvolvidas.Atualmente especializando em desenvolvimento web full-stack,mas com forte noções de desenvolvimento web front-end.
   <br>
-  <div style = "margin-top : 1rem;width : auto;display : flex;flex-flow : column wrap;align-items : center;justify-content : center;gap : 0.5rem;">
+  <div style = "margin-top : 10px;width : auto;display : flex;flex-flow : column wrap;align-items : center;justify-content : center;gap : 0.5rem;">
     <a style = "width : auto;display : flex;flex-flow : column wrap;align-items : center;justify-content : center;gap : 0.5rem;"  target = "_blank" href = "https://kenzie.com.br/">
       <p>Aluno da <strong>Kenzie Academy Brasil </strong></p>
       <img width = "40" height = "40" src = "https://assets.codepen.io/4703127/internal/avatars/users/default.png?fit=crop&format=auto&height=512&version=1593096653&width=512">
