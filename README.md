@@ -4,12 +4,6 @@
   
   
   ## Bem vindo ao meu perfil GitHub 👋
-  
-Estudo programação web para ajudar a resolver problemas reais,pois o visual é simples e objetivo,trazendo mais conforto e acessibilidade nas interações,com foco em responsividade das aplicações desenvolvidas.Atualmente especializando em desenvolvimento web full-stack,mas com forte noções de desenvolvimento web front-end.
-
-Pricipais tecnologias que possuo conhecimento:
-
-JavaScript (ES6) | HTML | CSS | Git | Scrum | Github | React | Hooks | Redux | MUI | ContextAPI | styled-components | Emotion | express | axios | yup | framer-motion | toastfy | react-router-dom | Swiper | PostgreSQL | Typescript | react-hook-form
 
   <div style = "width : auto;display : flex;flex-flow : column wrap;align-items : center;justify-content : center;gap : 0.5rem;">
     <a style = "width : auto;display : flex;flex-flow : column wrap;align-items : center;justify-content : center;gap : 0.5rem;"  target = "_blank" href = "https://kenzie.com.br/">
@@ -74,6 +68,11 @@ JavaScript (ES6) | HTML | CSS | Git | Scrum | Github | React | Hooks | Redux | M
       <a href = "mailto:guilhermetelesdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/guilherme-teles-103853235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
+  Estudo programação web para ajudar a resolver problemas reais,pois o visual é simples e objetivo,trazendo mais conforto e acessibilidade nas interações,com foco em responsividade das aplicações desenvolvidas.Atualmente especializando em desenvolvimento web full-stack,mas com forte noções de desenvolvimento web front-end.
+
+Pricipais tecnologias que possuo conhecimento:
+
+JavaScript (ES6) | HTML | CSS | Git | Scrum | Github | React | Hooks | Redux | MUI | ContextAPI | styled-components | Emotion | express | axios | yup | framer-motion | toastfy | react-router-dom | Swiper | PostgreSQL | Typescript | react-hook-form
 
   </div>
                        
