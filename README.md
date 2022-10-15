@@ -5,10 +5,6 @@
   
   ## Bem vindo ao meu perfil GitHub 👋
   
-  Meu primeiro contato com programação foi durante o ensino médio. Queria fazer parte da comunidade hacker,trabalhando na aréa de cyber segurança por conta da grande influência filmes e séries. O que me fascinou nessa área foi o impacto e desafios que a área proporcionaria. 
-
-Em paralelo a isso, desenvolvi um pequeno interesse em desenvolvimento de jogos(Unity) mas pela escassez do mercado nacional,mudei o foco da área de atuação para a área de desenvolvimento web,mais específicamente o desenvolvimento front-end, que também contempla minha paixão.
-
 Estudo programação web para ajudar a resolver problemas reais,pois o visual é simples e objetivo,trazendo mais conforto e acessibilidade nas interações,com foco em responsividade das aplicações desenvolvidas.Atualmente especializando em desenvolvimento web full-stack,mas com forte noções de desenvolvimento web front-end.
 
 Pricipais tecnologias que possuo conhecimento:
