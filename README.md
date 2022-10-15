@@ -40,7 +40,7 @@
   </div>  
   <br>
   <p>
-    mais tecnologias que possuo conhecimento:
+    Mais tecnologias que possuo conhecimento:
 
   JavaScript (ES6) | HTML | CSS | Git | Scrum | Github | React | Hooks | Redux | MUI | ContextAPI | styled-components | Emotion | express | axios | yup | framer-motion | toastfy | react-router-dom | Swiper | PostgreSQL | Typescript | react-hook-form
   </p>
