@@ -38,6 +38,12 @@
   </div>
  
   </div>  
+  <br>
+  <p>
+    mais tecnologias que possuo conhecimento:
+
+  JavaScript (ES6) | HTML | CSS | Git | Scrum | Github | React | Hooks | Redux | MUI | ContextAPI | styled-components | Emotion | express | axios | yup | framer-motion | toastfy | react-router-dom | Swiper | PostgreSQL | Typescript | react-hook-form
+  </p>
 
   
   <div style = "width : auto;display : flex;flex-flow : column wrap;align-items : center;justify-content : center;gap : 0.5rem;"> 
@@ -71,17 +77,7 @@
       <a href="https://www.twitch.tv/mitomortais" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
       <a href = "mailto:guilhermetelesdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/guilherme-teles-103853235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
-    <br>
-
-mais tecnologias que possuo conhecimento:
-
-JavaScript (ES6) | HTML | CSS | Git | Scrum | Github | React | Hooks | Redux | MUI | ContextAPI | styled-components | Emotion | express | axios | yup | framer-motion | toastfy | react-router-dom | Swiper | PostgreSQL | Typescript | react-hook-form
-  <br>
-  </div>
-                       
-  </div>      
-
+  </div> 
   <div style = "width : 100%;display : flex;flex-flow : row wrap;align-items : center;justify-content : center;gap : 0.5rem;">
   <img width = "100%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artorys&layout=compact&langs_count=7&theme=dracula"/>
   
