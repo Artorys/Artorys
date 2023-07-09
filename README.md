@@ -80,24 +80,6 @@ stacks:
   JavaScript (ES6) | HTML | CSS | Git | Scrum | Github | React | Hooks | Redux | MUI | ContextAPI | styled-components | Emotion | express | axios | yup | framer-motion | toastfy | react-router-dom | Swiper | PostgreSQL | Typescript | react-hook-form
   </p>
 
-  
-  <div style = "width : auto;display : flex;flex-flow : column wrap;align-items : center;justify-content : center;gap : 0.5rem;"> 
-
-  ### <strong>Estou aprendendo:</strong>
-
-  <div style = "width : auto;display : flex;flex-flow : row wrap;align-items : center;justify-content : center;gap : 0.5rem;">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width = "40" height = "40" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width = "40" height = "40" />
-   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "40" height = "40" />
-
-  </div>
-                       
-  </div> 
-
-
   <div style = "width : 100%;display : flex;flex-flow : column wrap;align-items : center;justify-content : center;gap : 0.5rem;"> 
 
   ### <strong>Contatos:</strong>
