@@ -27,11 +27,21 @@ SOLID e MVC) com as seguintes stacks:
 
 Para a construção de interfaces(mobile first e fidelidade ao figma) tenho experiência com as seguintes
 stacks:
-  ● HTML5, CSS3 e JavaScript (ES6+) para a manipulação do DOM e uso do FetchAPI para consumo
-  de APIs.
-  ● React, styled-components, MUI, chakra-ui e axios para consumo de APIs.
-  ● Next.js.
-  ● React-native
+  <ul style="list-style: none;">
+  <li>
+    HTML5, CSS3 e JavaScript (ES6+) para a manipulação do DOM e uso do FetchAPI para consumo de APIs.
+  </li>
+  <li>
+    React, styled-components, MUI, chakra-ui e axios para consumo de APIs.
+  </li>
+  <li>
+    Next.js.
+  </li>
+  <li>
+    React-native.
+  </li>
+</ul>
+
   </p>
   
   <div style = "width : auto;display : flex;flex-flow : column wrap;align-items : center;justify-content : center;gap : 0.5rem;">
