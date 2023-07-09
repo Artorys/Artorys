@@ -10,10 +10,18 @@ Vivência em Linux(debian/ubuntu) e familiaridade com o bash(terminal).Para o de
 meus projetos, web e mobile, utilizo o IDE Visual Studio Code.
 Forte noções em desenvolvimento ágil e SCRUM(JIRA); experiência em construções de APIs(princípios
 SOLID e MVC) com as seguintes stacks:
-  ● Node.js com Express (usando Typescript) e ORMs como TypeORM ou Prisma.
-  ● Django e django-rest-framework em Python3.
-  ● Flask em Python3 e ORM SQLAlchemy.
-  ● Kemal na linguagem Crystal e ORM Jennifer.
+    <li>
+      ● Node.js com Express (usando Typescript) e ORMs como TypeORM ou Prisma.
+    </li>
+    <li>
+      ● Django e django-rest-framework em Python3.
+    </li>
+    <li>
+      ● Flask em Python3 e ORM SQLAlchemy.  
+    </li>
+    <li>
+      ● Kemal na linguagem Crystal e ORM Jennifer.
+    </li>
 Para a construção de interfaces(mobile first e fidelidade ao figma) tenho experiência com as seguintes
 stacks:
   ● HTML5, CSS3 e JavaScript (ES6+) para a manipulação do DOM e uso do FetchAPI para consumo
