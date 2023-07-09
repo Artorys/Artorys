@@ -10,7 +10,7 @@ Vivência em Linux(debian/ubuntu) e familiaridade com o bash(terminal).Para o de
 meus projetos, web e mobile, utilizo o IDE Visual Studio Code.
 Forte noções em desenvolvimento ágil e SCRUM(JIRA); experiência em construções de APIs(princípios
 SOLID e MVC) com as seguintes stacks:
-<ul>
+<ul style={list-style: none}>
    <li>
       ● Node.js com Express (usando Typescript) e ORMs como TypeORM ou Prisma.
     </li>
